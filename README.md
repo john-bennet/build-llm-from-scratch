@@ -6,3 +6,5 @@ I was inspired to start this project from the words of wisdom Richard Feynman sa
 "If you want to truly understand it, Build it."
 
 Henceforth do I intend to truly understand how an LLM works.
+
+This project follows *Build a Large Language Model (From Scratch)* by Sebastian Raschka.'
